@@ -1,0 +1,1 @@
+User should not able able to login with blank username and password completed ,cleaning the data  

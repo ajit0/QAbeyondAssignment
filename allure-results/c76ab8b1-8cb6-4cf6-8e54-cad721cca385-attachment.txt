@@ -1,0 +1,6 @@
+7th Item Details: {
+  title: 'Super Pepperoni',
+  price: '$10',
+  imageSrc: 'images/extrapeperoni.png',
+  buttonText: '\n                            Add to Order\n                        '
+}

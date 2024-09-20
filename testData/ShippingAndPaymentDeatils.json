@@ -1,0 +1,18 @@
+{
+    "shippingDetails": {
+    "name": "Ajit Singh1",
+    "email": "ajitbilling@yopmail.com",
+    "address": "flat no - 06",
+    "city": "jaipur",
+    "state": "Rajasthan",
+    "zipCode": "302012"
+  },
+  "paymentDetails": {
+    "name": "Ajit Singh",
+    "cardNumber": "1234567890123456",
+    "expiryMonth": "January",
+    "expiryYear": "2027",
+    "cvv": "123"
+  },
+  "DailogMessage":"Shipping address same as billing checkbox must be selected."
+}

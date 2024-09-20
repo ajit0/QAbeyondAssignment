@@ -1,0 +1,1 @@
+Shipping address is already same as billing address

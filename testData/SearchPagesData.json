@@ -1,0 +1,6 @@
+{
+  "searchWord":"testSearch",
+  "emptyMessage":"Please provide a search word.",
+  "foundResultMessage": "Found one result for"
+
+}

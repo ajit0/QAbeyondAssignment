@@ -1,0 +1,2 @@
+Shipping address is already different from billing address
+Shipping address same as billing checkbox must be selected.

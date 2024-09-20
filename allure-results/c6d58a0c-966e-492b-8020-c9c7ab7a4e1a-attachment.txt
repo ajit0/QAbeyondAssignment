@@ -1,0 +1,11 @@
+User details: {
+  userName: 'johndoe19',
+  password: 'supersecret',
+  invalidUserName: 'supersecret',
+  invalidPassword: 'johndoe19',
+  welcomeMessage: 'Welcome!',
+  wrongCredentailsMessage: 'Wrong credentials',
+  invalidMessage: 'Fields can not be empty'
+}
+supersecret
+User should not able able to login with invalid username and password completed ,cleaning the data  
